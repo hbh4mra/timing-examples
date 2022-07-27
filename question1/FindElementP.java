@@ -11,7 +11,7 @@ import java.util.Random;
 
 /**
  *
- * @author cwu13sdu
+ * @author Harmeet Bhamra
  */
 public class FindElementP {
 
